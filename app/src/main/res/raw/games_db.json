@@ -1,0 +1,92 @@
+{
+  "games": [
+    {
+      "title": "Counter-Strike",
+      "description": "Counter-Strike: Global Offensive (CS:GO) is a 2012 multiplayer tactical first-person shooter developed by Valve.",
+      "yearReleased": 2013,
+      "logo": "https://logos-marques.com/wp-content/uploads/2022/07/CSGO-Logo.png",
+      "type": 1,
+      "favorite": 0
+    },
+    {
+      "title": "Apex",
+      "description": "Apex Legends is a free-to-play hero shooter game where legendary competitors battle for glory, fame, and fortune on the fringes of the Frontier",
+      "yearReleased": 2017,
+      "logo": "https://seeklogo.com/images/A/apex-logo-F74B0C9FCD-seeklogo.com.png",
+      "type": 1,
+      "favorite": 0
+    },
+    {
+      "title": "League of Legends",
+      "description": "League of Legends is a team-based game with over 140 champions to make epic plays with. Play now for free.",
+      "yearReleased": 2011,
+      "logo": "https://cdn.mos.cms.futurecdn.net/qPibdLSyYHnTX5NymkEb8M.jpeg",
+      "type": 2,
+      "favorite": 0
+    },
+    {
+      "title": "Hearthstone",
+      "description": "Hearthstone is a free-to-play collectible card game (CCG) developed by Blizzard Entertainment.",
+      "yearReleased": 2016,
+      "logo": "https://logos-world.net/wp-content/uploads/2021/02/Hearthstone-Heroes-of-Warcraft-Logo-2013-2016.png",
+      "type": 3,
+      "favorite": 0
+    },
+    {
+      "title": "Skyrim",
+      "description": "Skyrim reimagines and revolutionizes the open-world fantasy epic, bringing to life a complete virtual world open for you to explore any way you choose.",
+      "yearReleased": 2008,
+      "logo": "https://logowik.com/content/uploads/images/skyrim6508.jpg",
+      "type": 4,
+      "favorite": 0
+    },
+    {
+      "title": "Need For Speed",
+      "description": "Need for Speed (NFS) is a racing game franchise published by Electronic Arts and currently developed by Criterion Games, the developers of Burnout.",
+      "yearReleased": 2002,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Need-For-Speed-Logo-2014-2020.png",
+      "type": 5,
+      "favorite": 0
+    },
+    {
+      "title": "Minecraft",
+      "description": "Minecraft is a 2011 sandbox game developed by Mojang Studios. ",
+      "yearReleased": 2013,
+      "logo": "https://cdn.sanity.io/images/kts928pd/production/82883965c6a7fe6a4c35ed67fe9f21c5fbdcdf61-700x394.jpg",
+      "type": 4,
+      "favorite": 0
+    },
+    {
+      "title": "WoW - Classic",
+      "description": "World of Warcraft (WoW) is a massively multiplayer online role-playing game (MMORPG) released in 2004 by Blizzard Entertainment.",
+      "yearReleased": 2004,
+      "logo": "https://1000logos.net/wp-content/uploads/2021/09/World-of-Warcraft-Logo-2004.png",
+      "type": 4,
+      "favorite": 0
+    },
+    {
+      "title": "Diablo",
+      "description": "Diablo is an action role-playing dungeon crawler video game series developed by Blizzard North and continued by Blizzard Entertainment",
+      "yearReleased": 1997,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Diablo_logo.jpg/250px-Diablo_logo.jpg",
+      "type": 2,
+      "favorite": 0
+    },
+    {
+      "title": "Fortnite",
+      "description": "Fortnite is an online video game developed by Epic Games and released in 2017. It is available in three distinct game mode versions.",
+      "yearReleased": 2017,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/FortniteLogo.svg/250px-FortniteLogo.svg.png",
+      "type": 1,
+      "favorite": 0
+    },
+    {
+      "title": "The Sims",
+      "description": "The Sims is a series of life simulation video games developed by Maxis and published by Electronic Arts. The franchise has sold nearly 200 million copies worldwide.",
+      "yearReleased": 2000,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Sims_diamond_logo.svg/200px-Sims_diamond_logo.svg.png",
+      "type": 7,
+      "favorite": 0
+    }
+  ]
+}

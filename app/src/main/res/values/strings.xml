@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">ArchitectureExample</string>
+
+    <string name="game_can_t_be_updated">Game Can\'t be updated</string>
+    <string name="edit_game">Edit Game</string>
+    <string name="add_game">Add Game</string>
+    <string name="please_enter_game_data">Please enter all the data for the game</string>
+    <string name="game_details">Game Details</string>
+
+    <string name="item_title">Title</string>
+    <string name="item_released">Released:</string>
+    <string name="item_game_type">Game Type:</string>
+    <string name="item_game_description">Game Description</string>
+    <string name="item_favorite">Favorite</string>
+
+    <string name="activity_favorite">Favorite:</string>
+
+    <string name="add_game_logo_url">Logo URL</string>
+    <string name="add_game_game_logo">Game Logo:</string>
+    <string name="add_game_game_type">Game Type:</string>
+    <string name="add_game_year_released">Year Released</string>
+    <string name="add_game_year_released_title">Year Released:</string>
+    <string name="add_game_game_description">Game Description</string>
+    <string name="add_game_game_title">Game Title</string>
+
+    <string name="menu_btn_random_game">Random Game</string>
+    <string name="menu_btn_last_game_added">Last Game Added</string>
+    <string name="menu_btn_delete_all">Delete all</string>
+    <string name="menu_btn_games_by_type_4">Games by type 4</string>
+    <string name="menu_btn_favorites_games">Favorites Games</string>
+
+</resources>

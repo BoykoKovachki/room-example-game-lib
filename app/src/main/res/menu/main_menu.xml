@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/random_game"
+        android:icon="@drawable/random_game_icon"
+        android:title="@string/menu_btn_random_game"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/last_game"
+        android:icon="@drawable/last_game_icon"
+        android:title="@string/menu_btn_last_game_added"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/delete_all"
+        android:icon="@drawable/delete_icon"
+        android:title="@string/menu_btn_delete_all"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/games_from_type"
+        android:title="@string/menu_btn_games_by_type_4"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/favorite_games"
+        android:title="@string/menu_btn_favorites_games"
+        app:showAsAction="ifRoom" />
+
+</menu>
